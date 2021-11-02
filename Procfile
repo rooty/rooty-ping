@@ -1,1 +1,1 @@
-web: bin/rooty-go1
+web: bin/rooty-ping
